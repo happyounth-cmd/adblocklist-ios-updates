@@ -1,0 +1,10 @@
+! iOS 系统更新屏蔽
+! 添加日期: 2026-11-07
+! 用法: 添加到 AdGuardHome 过滤器或自定义规则
+
+||gdmf.apple.com^
+||mesu.apple.com^
+||xp.apple.com^
+||updates-http.apple.com^
+||cdn-apple.com^
+||appldnld.apple.com^
